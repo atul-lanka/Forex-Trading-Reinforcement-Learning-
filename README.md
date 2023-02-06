@@ -1,2 +1,3 @@
 # Forex-Trading-Reinforcement-Learning-
-Exploring automated trading functions on Foreign Exchange Markets using Reinforcement Learning Methods
+This project describes the implementation of a Deep Reinforcement Learning based system that is capable of automatically trading on the Foreign Exchange Market.
+
